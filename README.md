@@ -19,6 +19,9 @@ https://github.com/gnea/grbl/wiki/Grbl-v1.1-Interface
 # base function  
 ![image](https://user-images.githubusercontent.com/39780457/224492057-5cd22552-cdc0-4af9-aa42-ebd92e5011fe.png)
 
+# Hard and software
+In order to be able to advance the work quickly,  
+we have made a preliminary selection of hardware and software that we support.
 
 # Related projects from other users
 https://github.com/grblHAL/grblHAL_MessageParser 
