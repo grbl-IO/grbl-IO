@@ -10,3 +10,12 @@ https://github.com/gnea/grbl/wiki/Grbl-v1.1-Interface
 
 # base function  
 ![image](https://user-images.githubusercontent.com/39780457/224492057-5cd22552-cdc0-4af9-aa42-ebd92e5011fe.png)
+
+
+# Related projects from other users
+https://github.com/grblHAL/grblHAL_MessageParser 
+https://github.com/AC8L/FluidNC-Pendant  
+https://github.com/gjkrediet/Fluid-controller  
+https://github.com/quezadaminter/GrblJogCtrl  
+http://dangeroustools.com/2020/01/03/dro-and-jog-wheel-for-grbl/  
+https://openbuilds.com/builds/interface-cnc-touch-control-system.9688/  
