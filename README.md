@@ -1,5 +1,6 @@
 # grbl-IO
 grbl-IO is a collection of hardware and software for the external control of grbl-compatible controllers.  
+The well-structured building blocks can then be used flexibly to control or operate different machines.
 The current efforts are to create various extensions for the operation of FluidNC http://wiki.fluidnc.com/
 
 # first function in separate repo  
