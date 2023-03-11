@@ -4,6 +4,9 @@ The well-structured building blocks can then be used flexibly to control or oper
 It should be suitable for CNC, 3D printing, laser cutting and other applications  
 The current efforts are to create various extensions for the operation of FluidNC http://wiki.fluidnc.com/
 
+# designs
+Several designs are being considered to operate the various machines and applications.  
+
 # first function in separate repo  
 https://github.com/PatrikRindlisbacher/grbl-Status-light-tower-M5-Atom-Matrix
 !!!! The Light Tower is already supported by 3 boards.
