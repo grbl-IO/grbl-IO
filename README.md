@@ -1,2 +1,2 @@
 # grbl-IO
-Summary for external control of various grbl compatible controls
+grbl-IO is a collection of hardware and software for the external control of grbl-compatible controllers.
