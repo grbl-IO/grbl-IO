@@ -7,6 +7,7 @@ The current efforts are to create various extensions for the operation of FluidN
 # designs
 Several designs are being considered to operate the various machines and applications.  
 Whether simple and cheap, or complex and expensive, the core is always grbl-IO  
+At the moment we are working on several designs that are presented here to build or buy.  
 
 # first function in separate repo  
 https://github.com/PatrikRindlisbacher/grbl-Status-light-tower-M5-Atom-Matrix
