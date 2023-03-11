@@ -1,2 +1,2 @@
-# rbl-IO
+# grbl-IO
 Summary for external control of various grbl compatible controls
