@@ -11,7 +11,7 @@ At the moment we are working on several designs that are presented here to build
 
 # Software designs
 The software is divided into blocks for flexible use.  
-base / read / send / in / out / ui  
+base / read / send / gpio_in / gpio_out / ui  
 Each block consists of at least the following units:  
 variables / base / config / handler
 
