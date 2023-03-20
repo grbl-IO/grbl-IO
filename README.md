@@ -8,9 +8,7 @@ The current efforts are to create various extensions for the operation of FluidN
 Several designs are being considered to operate the various machines and applications.  
 Whether simple and cheap, or complex and expensive, the core is always grbl-IO  
 At the moment we are working on several designs that are presented here to build or buy.  
-![image](https://user-images.githubusercontent.com/39780457/226403616-ed3d2d14-9118-419c-a497-4111153672c9.png)
-
-
+![image](https://user-images.githubusercontent.com/39780457/226404278-7860b072-b2b5-4b1d-9edd-fdf1554facac.png)
 
 # Software designs
 The software is divided into blocks for flexible use.  
